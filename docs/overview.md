@@ -1,5 +1,5 @@
 ### Overview
- - OMC -  as a software **product** - consists of a number of **components**
+ - OMC -  as a software **product** - consists of a number of **[components**](https://github.com/denisurusov/omcmeta/blob/master/docs/components.md)
  - Components undergo a LifeCycle
  - Life cycle is driven by Actors
  - Actors produce Artifacts
@@ -32,7 +32,8 @@ graph LR
  1. Versioning/packaging rules for artifacts
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMDE4MzI5OCwtMjAzNzc1MDkzMCwtND
-MxMjA5NjI2LC0xODg1MDM0NjkyLDE0NTQ3MDg3MzEsLTY3OTE0
-NjI3MCwxODMwMzkwNDU1LC00NjYzNTE4NDldfQ==
+eyJoaXN0b3J5IjpbMTEyMjc5NTM4OCwtNTAwMTgzMjk4LC0yMD
+M3NzUwOTMwLC00MzEyMDk2MjYsLTE4ODUwMzQ2OTIsMTQ1NDcw
+ODczMSwtNjc5MTQ2MjcwLDE4MzAzOTA0NTUsLTQ2NjM1MTg0OV
+19
 -->
