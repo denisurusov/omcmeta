@@ -25,7 +25,7 @@ graph LR
 |Tester|VSCode or IntelliJ|Scenario|?|yes
 |Developer|VSCode or IntelliJ|JIRA|Ticket number|yes
 
-##### TODO
+### TODO - Relationship between artifacts
  1. Relationships between Aha Features and BA user stories
  2. Relationship between BA user stories and Testers Cuke Scenarios and Features
  3. Relationship between Tester Cukes and Development JIRA
@@ -33,7 +33,7 @@ graph LR
  5. Versioning/packaging rules
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNTIzMTU1NSwtMjAzNzc1MDkzMCwtND
+eyJoaXN0b3J5IjpbLTMwOTM5OTUzNSwtMjAzNzc1MDkzMCwtND
 MxMjA5NjI2LC0xODg1MDM0NjkyLDE0NTQ3MDg3MzEsLTY3OTE0
 NjI3MCwxODMwMzkwNDU1LC00NjYzNTE4NDldfQ==
 -->
