@@ -6,7 +6,7 @@ An OMC component has the following attributes:
 - Git URL
  - BitBucket address
 #### State & Status
- - State (should be derived from events)
+ - State *(should be derived from events*)
 	 - Active - development is being done
 	 - Planned - we are thinking/designing 
 	 - Do be killed - old stuff that must die
@@ -26,7 +26,7 @@ An OMC component has the following attributes:
 	 - API Connect end points pushed to or pulled from?
 	 - ***this one needs a lot of thinking.  Must be done dynamically, at the very least***
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMzkzOTU2MCwtNTA4MTY2MzEwLC0xMT
-g0ODcxODMxLDE0MzYwNTE0MzMsMzA1NDk3MTkwLC0xMjI1Mzgx
-NzEsODAzODI5MTU5XX0=
+eyJoaXN0b3J5IjpbMzA1MjA4MDE2LC01MDgxNjYzMTAsLTExOD
+Q4NzE4MzEsMTQzNjA1MTQzMywzMDU0OTcxOTAsLTEyMjUzODE3
+MSw4MDM4MjkxNTldfQ==
 -->
