@@ -1,4 +1,4 @@
-###Overview
+### Overview
 - OMC -  as a software **product** - consists of a number of **components**
 - Components undergo a life cycle
 - Life cycle is driven by actors
@@ -6,9 +6,8 @@
 
 ```mermaid
 graph LR
-    OMC-- has -->Components;
-graph TD    
-	Components -->C;
+    Product--consits of-->Components;
+    Components--undergo -->LifeCycle;    
 ```
 ### Actors, tools and artifacts
 |Actor|Tool|Artifact
@@ -27,7 +26,7 @@ dashboard monitors life cycle
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NzczMzQwMCwtMTg4NTAzNDY5MiwxND
-U0NzA4NzMxLC02NzkxNDYyNzAsMTgzMDM5MDQ1NSwtNDY2MzUx
-ODQ5XX0=
+eyJoaXN0b3J5IjpbLTEzMjU1ODg2OTEsLTE4ODUwMzQ2OTIsMT
+Q1NDcwODczMSwtNjc5MTQ2MjcwLDE4MzAzOTA0NTUsLTQ2NjM1
+MTg0OV19
 -->
