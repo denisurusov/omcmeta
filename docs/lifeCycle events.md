@@ -19,10 +19,10 @@ A component undergoes a life cycle, from inception to production delivery to BAU
 - UAT release - release notes and release number (version?)
 - Production release  - release notes and release number (version?)
 
-#### Usage events
-- Defects created in production
-- Aha.io ideas coming in
-- Data from business monitoring 
+#### Component usage events
+- Defects created in production (usage)
+- Aha.io ideas coming in (feedback)
+- Data from business monitoring (usage)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODY3NTg2OTldfQ==
+eyJoaXN0b3J5IjpbMTAyNDcyMTcxMCwtMTc4Njc1ODY5OV19
 -->
