@@ -11,9 +11,11 @@ An OMC component has the following attributes:
 	 - Planned - we are thinking/designing 
 	 - Do be killed - old stuff that must die
 	 - Waiting to see what happens - something that's in production and used, but not clear whether it will get enough adoption rate/usage
- - Component manifesto
-	 - Name
-	 - What purpose does it serve
+#### Component manifesto
+ - Name
+ - What purpose does it serve
+ - 	 - Feature and technology
+	 - *should be sourced from Aha* 
  - Type
 	 - BAU
 	 - R&D
@@ -23,13 +25,12 @@ An OMC component has the following attributes:
 	 - API Connect end points pushed to or pulled from?
 	 - ***this one needs a lot of thinking.  Must be done dynamically, at the very least***
  - Roadmap
-	 - Feature and technology
-	 - *should be sourced from Aha* 
+
 
 The dashboard accepts events from life cycle, especially from ci/CD part of it
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjM5NTUxNzAsLTUwODE2NjMxMCwtMT
-E4NDg3MTgzMSwxNDM2MDUxNDMzLDMwNTQ5NzE5MCwtMTIyNTM4
-MTcxLDgwMzgyOTE1OV19
+eyJoaXN0b3J5IjpbMTQxNjA0NDY4MiwtNTA4MTY2MzEwLC0xMT
+g0ODcxODMxLDE0MzYwNTE0MzMsMzA1NDk3MTkwLC0xMjI1Mzgx
+NzEsODAzODI5MTU5XX0=
 -->
