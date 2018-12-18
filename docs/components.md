@@ -11,10 +11,11 @@
 	 - R&D
 	 - Strategy
  - Dependencies 
+ - Roadmap - feature and tech
 
 The dashboard accepts events from life cycle, especially from ci/CD part of it
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NzUzODQxNSwtMTIyNTM4MTcxLDgwMz
-gyOTE1OV19
+eyJoaXN0b3J5IjpbLTE2NDQ2MTU4MzQsLTEyMjUzODE3MSw4MD
+M4MjkxNTldfQ==
 -->
