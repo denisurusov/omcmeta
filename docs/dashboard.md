@@ -3,7 +3,8 @@
 - CI/CD and process monitoring
 	- Detect slow components
 	- Detect data breaks
-- Sheer compon
+- Sheer component inventory
+- Dependency visualization for executive presentations and 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMDg0MTU4MF19
+eyJoaXN0b3J5IjpbMjA1Njk3NTE0NF19
 -->
