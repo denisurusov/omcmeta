@@ -11,6 +11,8 @@ An OMC component has the following attributes:
 	 - Planned - we are thinking/designing 
 	 - Do be killed - old stuff that must die
 	 - Waiting to see what happens - something that's in production and used, but not clear whether it will get enough adoption rate/usage
+ - Status
+	 - Green - no data errors, release *frequently*
 #### Component manifesto
  - Name
  - What purpose does it serve
@@ -26,7 +28,7 @@ An OMC component has the following attributes:
 	 - API Connect end points pushed to or pulled from?
 	 - ***this one needs a lot of thinking.  Must be done dynamically, at the very least***
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA1MjA4MDE2LC01MDgxNjYzMTAsLTExOD
-Q4NzE4MzEsMTQzNjA1MTQzMywzMDU0OTcxOTAsLTEyMjUzODE3
-MSw4MDM4MjkxNTldfQ==
+eyJoaXN0b3J5IjpbMjEyOTkxMDM5MCwzMDUyMDgwMTYsLTUwOD
+E2NjMxMCwtMTE4NDg3MTgzMSwxNDM2MDUxNDMzLDMwNTQ5NzE5
+MCwtMTIyNTM4MTcxLDgwMzgyOTE1OV19
 -->
