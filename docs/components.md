@@ -14,9 +14,9 @@ An OMC component has the following attributes:
 #### Component manifesto
  - Name
  - What purpose does it serve
- - 	 - Feature and technology
+ - 	Roadmap for Feature and technology
 	 - *should be sourced from Aha* 
- - Type
+ - **Type**
 	 - BAU
 	 - R&D
 	 - Strategy
@@ -30,7 +30,7 @@ An OMC component has the following attributes:
 The dashboard accepts events from life cycle, especially from ci/CD part of it
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNjA0NDY4MiwtNTA4MTY2MzEwLC0xMT
-g0ODcxODMxLDE0MzYwNTE0MzMsMzA1NDk3MTkwLC0xMjI1Mzgx
-NzEsODAzODI5MTU5XX0=
+eyJoaXN0b3J5IjpbMTkzOTI1MzM0LC01MDgxNjYzMTAsLTExOD
+Q4NzE4MzEsMTQzNjA1MTQzMywzMDU0OTcxOTAsLTEyMjUzODE3
+MSw4MDM4MjkxNTldfQ==
 -->
