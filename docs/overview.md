@@ -1,11 +1,9 @@
 ### Overview
-#### Batch 1
  - OMC -  as a software **product** - consists of a number of **components**
- - Components undergo a life cycle
- - Life cycle is driven by actors
- - Actors produce artifacts
- - Artifacts are managed in tools
-#### Batch 2
+ - Components undergo a LifeCycle
+ - Life cycle is driven by Actors
+ - Actors produce Artifacts
+ - Artifacts are managed in Tools
  - Tools expose APIs
  - APIs are access by a dashboard (*we really just want to build one*)
  - The dashboard is used to monitor and track product 
@@ -17,7 +15,7 @@ graph LR
     LifeCycle--is driven by-->Actors;
     Actors--produce-->Artifacts;
 ```
-### Actors, tools and artifacts
+### Actors, tools and artifacts reference
 |Actor|Tool|Artifact|URI|Git
 |--|--|--|--|--|
 |Product owner| Aha.io |Feature|Feature number|no
@@ -34,7 +32,7 @@ graph LR
  1. Versioning/packaging rules for artifacts
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMjg0NDMwNiwtMjAzNzc1MDkzMCwtND
+eyJoaXN0b3J5IjpbLTUwMDE4MzI5OCwtMjAzNzc1MDkzMCwtND
 MxMjA5NjI2LC0xODg1MDM0NjkyLDE0NTQ3MDg3MzEsLTY3OTE0
 NjI3MCwxODMwMzkwNDU1LC00NjYzNTE4NDldfQ==
 -->
