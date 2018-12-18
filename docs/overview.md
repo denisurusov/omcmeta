@@ -3,6 +3,16 @@
  - Life cycle is driven by actors
 - Actors produce artifacts using tools
 
+```mermaid
+graph LR
+    OMC-- has -->Components;
+graph TD    
+	Components -->C;
+```
+Ac
+|Actor|Tool|Artifact
+|--|--|--|
+|  Product owner| Aha.io |Feature
 
 meta data fits into life cycle
 Matt
@@ -12,16 +22,11 @@ Coders
 Release
 
 dashboard monitors life cycle
-```mermaid
-graph LR
-    OMC-- has -->Components;
-graph TD    
-	Components -->C;
-```
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNjg5MDcxLC0xODg1MDM0NjkyLDE0NT
-Q3MDg3MzEsLTY3OTE0NjI3MCwxODMwMzkwNDU1LC00NjYzNTE4
-NDldfQ==
+eyJoaXN0b3J5IjpbLTEwNjgxNTYzMzQsLTE4ODUwMzQ2OTIsMT
+Q1NDcwODczMSwtNjc5MTQ2MjcwLDE4MzAzOTA0NTUsLTQ2NjM1
+MTg0OV19
 -->
