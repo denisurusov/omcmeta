@@ -1,7 +1,7 @@
+A component undergoes a life cycle
 
 
-
- Written with [StackEdit](https://stackedit.io/).
+Inception Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEwODUwNDQ2XX0=
+eyJoaXN0b3J5IjpbLTE5NjU0Mzg2NzRdfQ==
 -->
