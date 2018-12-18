@@ -12,22 +12,22 @@ graph LR
     Actors--produce-->Artifacts;
 ```
 ### Actors, tools and artifacts
-|Actor|Tool|Artifact|URI
-|--|--|--|--|
+|Actor|Tool|Artifact|URI|Git
+|--|--|--|--|--|
 |Product owner| Aha.io |Feature|Feature number
-|BA|Any editor supporting .md|User story|git URL
-|Tester|Any editor supporting Cukes|Scenario
-|Developer|smth|JIRA|Ticket number
+|BA|VSCode or IntelliJ|User story|git URL|yes
+|Tester|VSCode or IntelliJ|Scenario|yes
+|Developer|VSCode or IntelliJ|JIRA|Ticket number
 
 ##### TODO
 
  1. Relationships between Aha Features and BA user stories
  2. Relationship between BA user stories and Testers Cuke Scenarios and Features
  3. Relationship between Tester Cukes and Development JIRA
- 4. Versioning rules
+ 4. Versioning/packaging rules
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDcyNDM1MTIsLTQzMTIwOTYyNiwtMT
+eyJoaXN0b3J5IjpbLTE4MzAyMTM2ODYsLTQzMTIwOTYyNiwtMT
 g4NTAzNDY5MiwxNDU0NzA4NzMxLC02NzkxNDYyNzAsMTgzMDM5
 MDQ1NSwtNDY2MzUxODQ5XX0=
 -->
