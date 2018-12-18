@@ -23,11 +23,11 @@ graph TD
 ##### TODO
 
  1. Relationships between Aha Features and BA user stories
- 2. Relationship between BA user stories and Cuke Scenarios and Features
- 3. Relationship between 
+ 2. Relationship between BA user stories and Testers Cuke Scenarios and Features
+ 3. Relationship between Tester Cukes and Development JIRA
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTE2MTUzOTIsLTE4ODUwMzQ2OTIsMT
-Q1NDcwODczMSwtNjc5MTQ2MjcwLDE4MzAzOTA0NTUsLTQ2NjM1
-MTg0OV19
+eyJoaXN0b3J5IjpbLTQzMTIwOTYyNiwtMTg4NTAzNDY5MiwxND
+U0NzA4NzMxLC02NzkxNDYyNzAsMTgzMDM5MDQ1NSwtNDY2MzUx
+ODQ5XX0=
 -->
