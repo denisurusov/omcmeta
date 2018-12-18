@@ -1,10 +1,8 @@
- - OMC, as a software **product**,  consists of a number of **components**
- - Components have life cycle
- - List item
+ - OMC -  as a software **product** - consists of a number of **components**
+ - Components undergo a life cycle
+ - Life cycle is driven by actors
+- Actors produce artifacts using tools
 
-Actors drive life cycle
-Actors leave 
-meta data
 
 meta data fits into life cycle
 Matt
@@ -23,7 +21,7 @@ graph TD
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgwNjAyOTM3LC0xODg1MDM0NjkyLDE0NT
+eyJoaXN0b3J5IjpbMTMyNjg5MDcxLC0xODg1MDM0NjkyLDE0NT
 Q3MDg3MzEsLTY3OTE0NjI3MCwxODMwMzkwNDU1LC00NjYzNTE4
 NDldfQ==
 -->
