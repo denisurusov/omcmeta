@@ -4,9 +4,10 @@ An OMC component has the following attributes:
  - Owner
  - Team
  - State (should be derived from events)
-	 - Active
-	 - Do be killed
-	 - Waiting to see what happens
+	 - Active - development is being done
+	 - Planned - we are thinking/designing 
+	 - Do be killed - old stuff that must die
+	 - Waiting to see what happens - something that's in production and used, but not clear whether it will get enough adoption rate/usage
  - Component manifesto
 	 - Name
 	 - What purpose does it serve
@@ -25,6 +26,7 @@ An OMC component has the following attributes:
 The dashboard accepts events from life cycle, especially from ci/CD part of it
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODQ4NzE4MzEsMTQzNjA1MTQzMywzMD
-U0OTcxOTAsLTEyMjUzODE3MSw4MDM4MjkxNTldfQ==
+eyJoaXN0b3J5IjpbLTUwODE2NjMxMCwtMTE4NDg3MTgzMSwxND
+M2MDUxNDMzLDMwNTQ5NzE5MCwtMTIyNTM4MTcxLDgwMzgyOTE1
+OV19
 -->
