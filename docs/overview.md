@@ -30,10 +30,11 @@ graph LR
  2. Relationship between BA user stories and Testers Cuke Scenarios and Features
  3. Relationship between Tester Cukes and Development JIRA
  4. For all of the above one|many to one|many
- 5. Versioning/packaging rules
+ ### TODO - CI/CD integration
+ 1. Versioning/packaging rules for artifacts
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwOTM5OTUzNSwtMjAzNzc1MDkzMCwtND
+eyJoaXN0b3J5IjpbLTU1ODkzMTQ4NywtMjAzNzc1MDkzMCwtND
 MxMjA5NjI2LC0xODg1MDM0NjkyLDE0NTQ3MDg3MzEsLTY3OTE0
 NjI3MCwxODMwMzkwNDU1LC00NjYzNTE4NDldfQ==
 -->
