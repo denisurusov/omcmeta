@@ -1,9 +1,17 @@
- - git URL
+ - Git URL
  - BitBucket address
  - Owner
- - State - active, dormant
- - to 
+ - Team
+ - State
+	 - Active
+	 - Do be killed
+	 - Waiting to see what happens
+ - Purpose
+	 - BAU
+	 - R&D
+	 - Strategy
+ - Dependencies 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDI1MjA5ODRdfQ==
+eyJoaXN0b3J5IjpbODAzODI5MTU5XX0=
 -->
