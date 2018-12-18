@@ -1,8 +1,15 @@
 ### Overview
-- OMC -  as a software **product** - consists of a number of **components**
-- Components undergo a life cycle
-- Life cycle is driven by actors
-- Actors produce artifacts using tools
+#### Batch 1
+ - OMC -  as a software **product** - consists of a number of **components**
+ - Components undergo a life cycle
+ - Life cycle is driven by actors
+ - Actors produce artifacts
+ - Ausing tools
+#### Batch 2
+ - Tools expose APIs
+ - APIs are access by a dashboard
+ - The dashboard is used to monitor and track product 
+
 ```mermaid
 graph LR
     Product--consists of-->Components;
@@ -26,7 +33,7 @@ graph LR
  5. Versioning/packaging rules
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODExNTY4MDAsLTIwMzc3NTA5MzAsLT
-QzMTIwOTYyNiwtMTg4NTAzNDY5MiwxNDU0NzA4NzMxLC02Nzkx
-NDYyNzAsMTgzMDM5MDQ1NSwtNDY2MzUxODQ5XX0=
+eyJoaXN0b3J5IjpbLTM4MTY0MzYzMywtMjAzNzc1MDkzMCwtND
+MxMjA5NjI2LC0xODg1MDM0NjkyLDE0NTQ3MDg3MzEsLTY3OTE0
+NjI3MCwxODMwMzkwNDU1LC00NjYzNTE4NDldfQ==
 -->
