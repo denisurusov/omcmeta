@@ -14,9 +14,10 @@ graph TD
 	A-->B;	    
 ```
 ### Actors, tools and artifacts
-|Actor|Tool|Artifact
-|--|--|--|
-|  Product owner| Aha.io |Feature
+|Actor|Tool|Artifact|URI
+|--|--|--|--|
+|Product owner| Aha.io |Feature|Feature number
+|BA|Any editor supporting .md|User story|git URL
 
 meta data fits into life cycle
 Matt
@@ -30,7 +31,7 @@ dashboard monitors life cycle
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MDUyNTE0MiwtMTg4NTAzNDY5MiwxND
-U0NzA4NzMxLC02NzkxNDYyNzAsMTgzMDM5MDQ1NSwtNDY2MzUx
-ODQ5XX0=
+eyJoaXN0b3J5IjpbLTEzNzg4OTAxNTAsLTE4ODUwMzQ2OTIsMT
+Q1NDcwODczMSwtNjc5MTQ2MjcwLDE4MzAzOTA0NTUsLTQ2NjM1
+MTg0OV19
 -->
