@@ -2,7 +2,7 @@
  - BitBucket address
  - Owner
  - Team
- - State
+ - State (should be derived from events)
 	 - Active
 	 - Do be killed
 	 - Waiting to see what happens
@@ -24,5 +24,6 @@ Status of a component is defined dynamically through life cycle events
 
 ### TODO 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjUzODE3MSw4MDM4MjkxNTldfQ==
+eyJoaXN0b3J5IjpbLTQwOTk4MjczNiwtMTIyNTM4MTcxLDgwMz
+gyOTE1OV19
 -->
