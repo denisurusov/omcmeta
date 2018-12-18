@@ -8,9 +8,8 @@
 	 - Waiting to see what happens
  - Component manifesto
 	 - Name
-	 - What 
-	 - Who is it  
- - Purpose
+	 - What purpose does it serve
+ - Type
 	 - BAU
 	 - R&D
 	 - Strategy
@@ -20,6 +19,6 @@
 The dashboard accepts events from life cycle, especially from ci/CD part of it
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzQ2OTczMjksLTEyMjUzODE3MSw4MD
-M4MjkxNTldfQ==
+eyJoaXN0b3J5IjpbMzA1NDk3MTkwLC0xMjI1MzgxNzEsODAzOD
+I5MTU5XX0=
 -->
