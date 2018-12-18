@@ -1,7 +1,9 @@
 A component undergoes a life cycle, from inception to production delivery to BAU to end of life.
 
 #### Inception
-- Ar
+- Team assigned 
+- Owner assigned 
+- Git repo created
 - 
 
 #### Feature life cycle
@@ -10,13 +12,14 @@ A component undergoes a life cycle, from inception to production delivery to BAU
 - Test cases added
 - Code deployed
 
-### Product life cycle
+####  Product life cycle
 - Build with build number
-- SIT release - r
-- UAT release
+- SIT release - release notes and release number (version?)
+- UAT release - release notes and release number (version?)
+- Production release  - release notes and release number (version?)
 - 
 Inception Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMjMwOTk4Myw2MDc1MTU4NDEsLTE5Nj
+eyJoaXN0b3J5IjpbMTMxODMwODUwMSw2MDc1MTU4NDEsLTE5Nj
 U0Mzg2NzRdfQ==
 -->
