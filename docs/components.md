@@ -1,0 +1,13 @@
+ - Git URL
+ - BitBucket address
+ - Owner
+ - Team
+ - State
+	 - Active
+	 - Do be killed
+	 - Waiting to see what happens
+ - Purpose
+	 - BAU
+	 - R&D
+	 - Strategy
+ - Dependencies 
