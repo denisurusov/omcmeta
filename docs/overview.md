@@ -7,7 +7,7 @@
  - Artifacts are managed in tools
 #### Batch 2
  - Tools expose APIs
- - APIs are access by a dashboard
+ - APIs are access by a dashboard (*we really just want to build one*)
  - The dashboard is used to monitor and track product 
 
 ```mermaid
@@ -34,7 +34,7 @@ graph LR
  1. Versioning/packaging rules for artifacts
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1ODkzMTQ4NywtMjAzNzc1MDkzMCwtND
+eyJoaXN0b3J5IjpbLTgzMjg0NDMwNiwtMjAzNzc1MDkzMCwtND
 MxMjA5NjI2LC0xODg1MDM0NjkyLDE0NTQ3MDg3MzEsLTY3OTE0
 NjI3MCwxODMwMzkwNDU1LC00NjYzNTE4NDldfQ==
 -->
