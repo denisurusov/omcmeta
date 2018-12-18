@@ -12,7 +12,12 @@ Coders
 Release
 
 dashboard monitors life cycle
+```mermaid
+A-->B
+```
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMDM5MDQ1NSwtNDY2MzUxODQ5XX0=
+eyJoaXN0b3J5IjpbNDI0MTY2Nzk5LDE4MzAzOTA0NTUsLTQ2Nj
+M1MTg0OV19
 -->
