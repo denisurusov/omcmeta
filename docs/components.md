@@ -20,17 +20,12 @@ An OMC component has the following attributes:
 	 - BAU
 	 - R&D
 	 - Strategy
- - Dependencies
+ - **Dependencies**
 	 - Pointers to git repos of components this component depends on
 	 - API Connect end points pushed to or pulled from?
 	 - ***this one needs a lot of thinking.  Must be done dynamically, at the very least***
- - Roadmap
-
-
-The dashboard accepts events from life cycle, especially from ci/CD part of it
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzOTI1MzM0LC01MDgxNjYzMTAsLTExOD
+eyJoaXN0b3J5IjpbMjgyNDk1OTcwLC01MDgxNjYzMTAsLTExOD
 Q4NzE4MzEsMTQzNjA1MTQzMywzMDU0OTcxOTAsLTEyMjUzODE3
 MSw4MDM4MjkxNTldfQ==
 -->
