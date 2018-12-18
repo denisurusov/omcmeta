@@ -1,4 +1,7 @@
-Components
+OMC has components
+Components have life cycle
+Actors drive life cycle
+Actors leave 
 meta data
 
 meta data fits into life cycle
@@ -11,5 +14,5 @@ Release
 dashboard monitors life cycle
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNzA2MTQwNSwtNDY2MzUxODQ5XX0=
+eyJoaXN0b3J5IjpbMTgzMDM5MDQ1NSwtNDY2MzUxODQ5XX0=
 -->
