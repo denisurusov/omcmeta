@@ -1,4 +1,4 @@
-OMC, as a software product, is  components
+- OMC, as a software **product**,  consists of a number of **components**
 Components have life cycle
 Actors drive life cycle
 Actors leave 
@@ -21,6 +21,6 @@ graph TD
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NDcwODczMSwtNjc5MTQ2MjcwLDE4Mz
-AzOTA0NTUsLTQ2NjM1MTg0OV19
+eyJoaXN0b3J5IjpbLTE4ODUwMzQ2OTIsMTQ1NDcwODczMSwtNj
+c5MTQ2MjcwLDE4MzAzOTA0NTUsLTQ2NjM1MTg0OV19
 -->
