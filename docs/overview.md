@@ -17,15 +17,17 @@ graph LR
 |Product owner| Aha.io |Feature|Feature number
 |BA|Any editor supporting .md|User story|git URL
 |Tester|Any editor supporting Cukes|Scenario
+|Developer|smth|JIRA|Ticket number
 
 ##### TODO
 
  1. Relationships between Aha Features and BA user stories
  2. Relationship between BA user stories and Testers Cuke Scenarios and Features
  3. Relationship between Tester Cukes and Development JIRA
+ 4. Versioning rules
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNTQwNTUwNiwtNDMxMjA5NjI2LC0xOD
-g1MDM0NjkyLDE0NTQ3MDg3MzEsLTY3OTE0NjI3MCwxODMwMzkw
-NDU1LC00NjYzNTE4NDldfQ==
+eyJoaXN0b3J5IjpbLTE3MDcyNDM1MTIsLTQzMTIwOTYyNiwtMT
+g4NTAzNDY5MiwxNDU0NzA4NzMxLC02NzkxNDYyNzAsMTgzMDM5
+MDQ1NSwtNDY2MzUxODQ5XX0=
 -->
