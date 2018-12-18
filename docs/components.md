@@ -1,8 +1,11 @@
 An OMC component has the following attributes:
- - Git URL
+#### Organization
+- Owner
+- Team
+#### CI/CD
+- Git URL
  - BitBucket address
- - Owner
- - Team
+#### State & Status
  - State (should be derived from events)
 	 - Active - development is being done
 	 - Planned - we are thinking/designing 
@@ -26,7 +29,7 @@ An OMC component has the following attributes:
 The dashboard accepts events from life cycle, especially from ci/CD part of it
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwODE2NjMxMCwtMTE4NDg3MTgzMSwxND
-M2MDUxNDMzLDMwNTQ5NzE5MCwtMTIyNTM4MTcxLDgwMzgyOTE1
-OV19
+eyJoaXN0b3J5IjpbLTIxMjM5NTUxNzAsLTUwODE2NjMxMCwtMT
+E4NDg3MTgzMSwxNDM2MDUxNDMzLDMwNTQ5NzE5MCwtMTIyNTM4
+MTcxLDgwMzgyOTE1OV19
 -->
