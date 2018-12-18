@@ -10,8 +10,6 @@ graph LR
     Components--undergo -->LifeCycle;
     LifeCycle--is driven by-->Actors;
 	Actors--produce-->Artifacts;
-graph TD
-	A-->B;	    
 ```
 ### Actors, tools and artifacts
 |Actor|Tool|Artifact|URI
@@ -27,7 +25,7 @@ graph TD
  3. Relationship between Tester Cukes and Development JIRA
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMTIwOTYyNiwtMTg4NTAzNDY5MiwxND
-U0NzA4NzMxLC02NzkxNDYyNzAsMTgzMDM5MDQ1NSwtNDY2MzUx
-ODQ5XX0=
+eyJoaXN0b3J5IjpbMTc5Mzg4Njc0NiwtNDMxMjA5NjI2LC0xOD
+g1MDM0NjkyLDE0NTQ3MDg3MzEsLTY3OTE0NjI3MCwxODMwMzkw
+NDU1LC00NjYzNTE4NDldfQ==
 -->
