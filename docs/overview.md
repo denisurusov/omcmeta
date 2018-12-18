@@ -7,7 +7,10 @@
 ```mermaid
 graph LR
     Product--consits of-->Components;
-    Components--undergo -->LifeCycle;    
+    Components--undergo -->LifeCycle;
+    LifeCycle--is driven by-->Actors;
+graph TD
+	Actors--produce-->Artifacts;    
 ```
 ### Actors, tools and artifacts
 |Actor|Tool|Artifact
@@ -26,7 +29,7 @@ dashboard monitors life cycle
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjU1ODg2OTEsLTE4ODUwMzQ2OTIsMT
+eyJoaXN0b3J5IjpbLTEzMTAxMTExOTUsLTE4ODUwMzQ2OTIsMT
 Q1NDcwODczMSwtNjc5MTQ2MjcwLDE4MzAzOTA0NTUsLTQ2NjM1
 MTg0OV19
 -->
