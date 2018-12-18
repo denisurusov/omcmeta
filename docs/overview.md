@@ -18,20 +18,16 @@ graph TD
 |--|--|--|--|
 |Product owner| Aha.io |Feature|Feature number
 |BA|Any editor supporting .md|User story|git URL
+|Tester|Any editor supporting Cukes|Scenario
 
-meta data fits into life cycle
-Matt
-BAs are a part of life cycle 
-Testers
-Coders
-Release
+##### TODO
 
-dashboard monitors life cycle
-
-
+ 1. Relationships between Aha Features and BA user stories
+ 2. Relationship between BA user stories and Cuke Scenarios and Features
+ 3. Relationship between 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzg4OTAxNTAsLTE4ODUwMzQ2OTIsMT
+eyJoaXN0b3J5IjpbLTIwOTE2MTUzOTIsLTE4ODUwMzQ2OTIsMT
 Q1NDcwODczMSwtNjc5MTQ2MjcwLDE4MzAzOTA0NTUsLTQ2NjM1
 MTg0OV19
 -->
