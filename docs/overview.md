@@ -14,12 +14,13 @@ Release
 dashboard monitors life cycle
 ```mermaid
 graph LR
-    A--has--B;
-	B-->C;
+    OMC-- has -->Components;
+graph TD    
+	Components -->C;
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDYyMDc2ODAsMTgzMDM5MDQ1NSwtND
-Y2MzUxODQ5XX0=
+eyJoaXN0b3J5IjpbLTY3OTE0NjI3MCwxODMwMzkwNDU1LC00Nj
+YzNTE4NDldfQ==
 -->
