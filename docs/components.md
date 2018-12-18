@@ -6,6 +6,10 @@
 	 - Active
 	 - Do be killed
 	 - Waiting to see what happens
+ - Component manifesto
+	 - Name
+	 - What 
+	 - Who is it  
  - Purpose
 	 - BAU
 	 - R&D
@@ -16,6 +20,6 @@
 The dashboard accepts events from life cycle, especially from ci/CD part of it
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDQ2MTU4MzQsLTEyMjUzODE3MSw4MD
+eyJoaXN0b3J5IjpbLTEyNzQ2OTczMjksLTEyMjUzODE3MSw4MD
 M4MjkxNTldfQ==
 -->
