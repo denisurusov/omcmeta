@@ -13,11 +13,11 @@ Release
 
 dashboard monitors life cycle
 ```mermaid
-A-->B
+A-->B;
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI0MTY2Nzk5LDE4MzAzOTA0NTUsLTQ2Nj
-M1MTg0OV19
+eyJoaXN0b3J5IjpbMTU3OTAxMDA0NCwxODMwMzkwNDU1LC00Nj
+YzNTE4NDldfQ==
 -->
