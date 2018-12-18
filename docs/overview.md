@@ -4,7 +4,7 @@
  - Components undergo a life cycle
  - Life cycle is driven by actors
  - Actors produce artifacts
- - Ausing tools
+ - Artifacts are managed in tools
 #### Batch 2
  - Tools expose APIs
  - APIs are access by a dashboard
@@ -33,7 +33,7 @@ graph LR
  5. Versioning/packaging rules
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MTY0MzYzMywtMjAzNzc1MDkzMCwtND
+eyJoaXN0b3J5IjpbLTgzNTIzMTU1NSwtMjAzNzc1MDkzMCwtND
 MxMjA5NjI2LC0xODg1MDM0NjkyLDE0NTQ3MDg3MzEsLTY3OTE0
 NjI3MCwxODMwMzkwNDU1LC00NjYzNTE4NDldfQ==
 -->
