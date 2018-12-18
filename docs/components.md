@@ -1,3 +1,4 @@
+An OMC component has the following attributes:
  - Git URL
  - BitBucket address
  - Owner
@@ -13,12 +14,14 @@
 	 - BAU
 	 - R&D
 	 - Strategy
- - Dependencies 
+ - Dependencies
+	 - Pointers to git repos of components this component depends on
+	 - 
  - Roadmap - feature and tech
 
 The dashboard accepts events from life cycle, especially from ci/CD part of it
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA1NDk3MTkwLC0xMjI1MzgxNzEsODAzOD
-I5MTU5XX0=
+eyJoaXN0b3J5IjpbODE0OTU4OTQ4LDMwNTQ5NzE5MCwtMTIyNT
+M4MTcxLDgwMzgyOTE1OV19
 -->
