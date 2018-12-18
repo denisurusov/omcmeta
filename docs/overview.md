@@ -3,7 +3,6 @@
 - Components undergo a life cycle
 - Life cycle is driven by actors
 - Actors produce artifacts using tools
-
 ```mermaid
 graph LR
     Product--consists of-->Components;
@@ -27,7 +26,7 @@ graph LR
  5. Versioning/packaging rules
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzc3NTA5MzAsLTQzMTIwOTYyNiwtMT
-g4NTAzNDY5MiwxNDU0NzA4NzMxLC02NzkxNDYyNzAsMTgzMDM5
-MDQ1NSwtNDY2MzUxODQ5XX0=
+eyJoaXN0b3J5IjpbLTE3ODExNTY4MDAsLTIwMzc3NTA5MzAsLT
+QzMTIwOTYyNiwtMTg4NTAzNDY5MiwxNDU0NzA4NzMxLC02Nzkx
+NDYyNzAsMTgzMDM5MDQ1NSwtNDY2MzUxODQ5XX0=
 -->
