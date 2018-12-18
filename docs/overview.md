@@ -13,11 +13,14 @@ Release
 
 dashboard monitors life cycle
 ```mermaid
-A-->B;
+```
+graph LR
+    A-- This is the text ---B
+```
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3OTAxMDA0NCwxODMwMzkwNDU1LC00Nj
+eyJoaXN0b3J5IjpbMjA5ODM4NDE3NCwxODMwMzkwNDU1LC00Nj
 YzNTE4NDldfQ==
 -->
