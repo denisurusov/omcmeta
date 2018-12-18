@@ -4,7 +4,7 @@ A component undergoes a life cycle, from inception to production delivery to BAU
 - Team assigned 
 - Owner assigned 
 - Git repo created
-- 
+- BitBucket added
 
 #### Feature life cycle
 - Features created
@@ -20,6 +20,6 @@ A component undergoes a life cycle, from inception to production delivery to BAU
 - 
 Inception Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxODMwODUwMSw2MDc1MTU4NDEsLTE5Nj
-U0Mzg2NzRdfQ==
+eyJoaXN0b3J5IjpbNzI4MTMxMjAwLDYwNzUxNTg0MSwtMTk2NT
+QzODY3NF19
 -->
