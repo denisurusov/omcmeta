@@ -1,5 +1,7 @@
-- OMC, as a software **product**,  consists of a number of **components**
-Components have life cycle
+ - OMC, as a software **product**,  consists of a number of **components**
+ - Components have life cycle
+ - List item
+
 Actors drive life cycle
 Actors leave 
 meta data
@@ -21,6 +23,7 @@ graph TD
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODUwMzQ2OTIsMTQ1NDcwODczMSwtNj
-c5MTQ2MjcwLDE4MzAzOTA0NTUsLTQ2NjM1MTg0OV19
+eyJoaXN0b3J5IjpbNzgwNjAyOTM3LC0xODg1MDM0NjkyLDE0NT
+Q3MDg3MzEsLTY3OTE0NjI3MCwxODMwMzkwNDU1LC00NjYzNTE4
+NDldfQ==
 -->
