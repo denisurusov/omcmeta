@@ -23,7 +23,15 @@ An OMC component has the following attributes:
  - What purpose does it serve
  - 	Roadmap for Feature and technology
 	 - *should be sourced from Aha* 
- - **Type**
+ - **Type** - Git URL
+ - BitBucket address
+ - Owner
+ - Team
+ - State
+	 - Active
+	 - Do be killed
+	 - Waiting to see what happens
+ - Purpose
 	 - BAU
 	 - R&D
 	 - Strategy
@@ -31,9 +39,10 @@ An OMC component has the following attributes:
  - **Dependencies**
 	 - Pointers to git repos of components this component depends on
 	 - API Connect end points pushed to or pulled from?
-	 - ***this one needs a lot of thinking.  Must be done dynamically, at the very least***
+	 - ***this one needs a lot of thinking.  Must be done dynamically, at the very least***Dependencies 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NjU0Mzg2MiwyMTI5OTEwMzkwLDMwNT
-IwODAxNiwtNTA4MTY2MzEwLC0xMTg0ODcxODMxLDE0MzYwNTE0
-MzMsMzA1NDk3MTkwLC0xMjI1MzgxNzEsODAzODI5MTU5XX0=
+eyJoaXN0b3J5IjpbLTM3MTU4OTk2NCwyMTQ2NTQzODYyLDIxMj
+k5MTAzOTAsMzA1MjA4MDE2LC01MDgxNjYzMTAsLTExODQ4NzE4
+MzEsMTQzNjA1MTQzMywzMDU0OTcxOTAsLTEyMjUzODE3MSw4MD
+M4MjkxNTldfQ==
 -->
